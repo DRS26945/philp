@@ -6,7 +6,7 @@ DineEase is a comprehensive, web-based Order Management System (OMS) designed to
 
 The system is built around a role-based access control model, providing distinct dashboards and functionalities for different staff members.
 
-###  роли
+###  
 
 *   **👨‍💼 Admin:**
     *   Manages the restaurant's menu (Add, Edit, Delete items).
