@@ -1,0 +1,15 @@
+# Composer dependencies
+/vendor/
+
+# Environment variables
+.env
+.env.local
+.env.bak
+
+# Log files
+*.log
+logs/
+
+# IDE specific files
+.vscode/
+.idea/
